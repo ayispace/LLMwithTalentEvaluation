@@ -14,6 +14,8 @@
 
 + [GitHub - SocialAI-tianji/Tianji: 从零学习，制作懂人情世故的大语言模型](https://github.com/SocialAI-tianji/Tianji)
 
++ [书生大模型实战营](https://github.com/InternLM/tutorial)
+
 + [GitHub - datawhalechina/self-llm: 《开源大模型食用指南》基于Linux环境快速部署开源大模型，更适合中国宝宝的部署教程](https://github.com/datawhalechina/self-llm)
 
 ##### 开源书籍
@@ -26,13 +28,13 @@
   
   https://intro-llm.github.io/
 
+##### 一些notebook
+
++ [基于LoRA技术对大规模语言模型Llama2-7B进行微调 实战](https://www.kaggle.com/code/wuxiognwei2/lora-llama2-7b)
+
++ 
+
 ### 论文清单
-
-
-
-
-
-
 
 ### 工具
 
@@ -45,5 +47,3 @@
 ##### 开源社区
 
 + HuggingFace
-
-
